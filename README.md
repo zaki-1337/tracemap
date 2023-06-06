@@ -2,7 +2,7 @@
 Traceroute implementation in python with visualization on the worldmap with the leaflet JS library.
 
 Usage: 
-1. python3 main.py <hostname>
+1. Run python3 main.py <hostname>
 2. Run the webpage at port number 5500; Or any other port if needed and make sure to edit the line 
   ```self.send_header('Access-Control-Allow-Origin', 'http://127.0.0.1:xxxx')``` 
   by replacing xxxx with your port number in main.py
